@@ -7,10 +7,10 @@ Courtenay, BC, Canada<br>*resume AT erikniklas DOT net*
 ## Professional Summary
 
 * Over 25 years experience with Linux and Unix systems
-* Over ten years experience running large distributed systems
+* Over twelve years experience managing large distributed systems
 * Passion for automating processes and building tools to maximize team productivity
 * Develops and promotes relationships of trust and respect with peers, customers, and superiors
-* Excellent written and oral communication skills; actively documents and shares knowledge
+* Excellent writing and oral communication skills; actively documents and shares knowledge
 * US and Canadian citizenship
 
 ## Technical Skills Summary
@@ -27,7 +27,16 @@ Courtenay, BC, Canada<br>*resume AT erikniklas DOT net*
 
 ## Experience
 
-*Infrastructure Engineer (tooling and automation team), Riot Games, April 2022 - present*
+*Infrastructure Engineer (cloud engineering team), Riot Games, January 2024 - present*
+
+**Job Responsibilities**
+
+* Create and maintain tooling to abstract and manage Amazon VPCs for the entire company
+* Assist customers migrating from Cloudbees (Jenkins) to GitHub Actions
+* Design and implement a generalized infrastructure CI/CD system suitable across the organization
+* Advise leadership on strategic goals and team health
+
+*Infrastructure Engineer (tooling and automation team), Riot Games, April 2022 - December 2023*
 
 **Job Responsibilities**
 
