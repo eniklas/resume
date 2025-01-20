@@ -15,9 +15,9 @@ Courtenay, BC, Canada<br>*resume AT erikniklas DOT net*
 
 ## Technical Skills Summary
 
-**Operating Systems:** Highly competent in Linux system administration (Red Hat/CentOS and Ubuntu). Intermediate knowledge of Windows operating systems
+**Operating Systems:** Highly competent in Linux system administration; intermediate knowledge of Windows operating systems
 
-**Scripting/Programming:** Thorough experience with Python, Groovy, Perl and bash shell scripting; significant experience with Golang and C/C++/C#; experience with TypeScript, Next.js, and REST API programming
+**Scripting/Programming:** Thorough experience with Python, Groovy, Perl and bash shell scripting; significant experience with Golang and C/C++/C#; experience with JavaScript, TypeScript, Next.js, and REST API programming
 
 **Containerization:** Thorough experience with Kubernetes, Mesos/Marathon, and Docker administration
 
@@ -114,54 +114,11 @@ Courtenay, BC, Canada<br>*resume AT erikniklas DOT net*
 * Wrote Python scripts to provision and free up servers with a single command, saving a massive amount of time for SREs and NOC
 * Ran a bash scripting workshop for junior administrators
 
+### Previous experience
+
 *Linux System Administrator, Oracle Corporation Canada, January 2005 - February 2012*
 
-**Job Responsibilities**
-
-* Provide consulting services to outside companies, including configuration of DNS, mail, backups, Kickstart, and general system administration and troubleshooting
-* Perform senior system administration support for 400+ Sun Solaris, Oracle Enterprise Linux, Red Hat Linux, and Windows 2003, 2008 and XP servers (physical and virtual)
-* Develop new solutions as part of an infrastructure team
-* Develop and maintain scripts to simplify administration and automate processes
-* Develop, maintain, and support VMware, Xen, and Amazon EC2 (AMI) virtual machine images
-* Maintain and improve infrastructure to support hundreds of Unix and Windows servers, both internal and for customer projects
-* Provide periodic on-call support
-
-**Special Accomplishments**
-
-* Developed and maintained VMware, Xen, and Amazon EC2 images of Red Hat Linux, Oracle Enterprise Linux, Windows XP, Windows 2003, Windows 2008, and Oracle 9i, 10g, and 11g RAC, deployed thousands of times with minimal administrator interaction, for sandbox, development, and production use
-* Wrote scripts to automate configuration of Linux servers across multiple data centers
-* Contributed a vast amount of documentation on internal processes, best practices, etc.
-
 *Unix System Administrator, Nationwide Insurance, March 1999 - December 2004*
-
-**Job Responsibilities**
-
-* Install, upgrade, and administer 650+ Unix servers in two data centers, including Solaris, HP-UX, AIX, and Linux
-* Write scripts to automate tasks and ease administration
-* Maintain a set of Perl utilities allowing front line support to administer user accounts
-* Serve as postmaster for a sendmail server supporting 1000 users
-* Responsible for periodic on-call support
-* Keep skills current by reading periodicals, books and web sites pertinent to the field, and by attending regular training and conferences
-* Decide upon and document best practices
-* Review and improve security templates
-* Mentor junior system administrators
-
-**Special Accomplishments**
-
-* Wrote a suite of tools to implement password security mechanisms in an NIS environment
-* Proved that Linux is a viable alternative in the existing Unix environment
-* Designed and implemented the Linux solution
-* Created tools to migrate existing DNS zones to a new DNS infrastructure with minimal customer impact
-* Migrated central sendmail server to Postfix
-* Wrote many authoritative documents, including one used by the entire team to upgrade several hundred servers from Solaris 2.6 to Solaris 8
-* Assumed a lead role among a group of sixteen peers
-
-*Intern in Unix System Administration, Nationwide Insurance, February 1998 - March 1999*
-
-* Monitor, maintain, and upgrade many systems, including Solaris, HP-UX, AIX, and DEC Ultrix
-* Address customer requests for system modifications and installations
-* Help patch and certify several hundred servers for Y2K compliance
-* Write a program to allow endusers to safely shut down and reboot workstations
 
 ## Education
 
