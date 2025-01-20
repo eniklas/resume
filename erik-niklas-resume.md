@@ -23,7 +23,7 @@ Courtenay, BC, Canada<br>*resume AT erikniklas DOT net*
 
 **Utilities/Applications:** In-depth knowledge of industry-standard tools and technologies such as Jenkins, Ansible, Puppet, git, virtualization, etc.
 
-**Cloud services:** Familiar with AWS services and infrastructure as code solutions such as Terraform and Terragrunt
+**Cloud services:** Strong experience with AWS services and infrastructure as code solutions such as Terraform, Terragrunt, and Pulumi
 
 **Protocols:** Knowledge of common protocols such as TCP/IP, UDP, NTP, DNS, HTTP, etc.
 
@@ -42,10 +42,16 @@ Courtenay, BC, Canada<br>*resume AT erikniklas DOT net*
 
 **Job Responsibilities**
 
-* Create and maintain tooling to abstract and manage Amazon VPCs for the entire company
-* Assist customers migrating from Cloudbees (Jenkins) to GitHub Actions
+* Create and improve tooling to abstract and manage Amazon VPCs for the entire company
+* Assist customers in migrating from Jenkins to GitHub Actions
 * Design and implement a generalized infrastructure CI/CD system suitable across the organization
 * Advise leadership on strategic goals and team health
+
+**Special Accomplishments**
+
+* Revamped development and CI processes for an existing Python project, including fully automated version management, greatly improving development efficiency for the team
+* Created process for identifying and safely deleting unused VPCs
+* Proposed a sustainable support model for GitHub Actions for a partner team
 
 *Infrastructure Engineer (tooling and automation team), Riot Games, April 2022 - December 2023*
 
@@ -61,6 +67,7 @@ Courtenay, BC, Canada<br>*resume AT erikniklas DOT net*
 * Generalized the continuous deployment system developed on my previous team, for use by other customers
 * Set up CI/CD GitOps workflows for several teams
 * Built a pipeline to automate the creation of Fedora images, decreasing engineer time from days to minutes for a new Fedora release
+* Built a web tool for nontechnical users to identify inefficient usage of cloud resources and assign tickets to the owning team
 
 *Infrastructure Engineer (container orchestration team), Riot Games, April 2018 - April 2022*
 
