@@ -7,23 +7,34 @@ Courtenay, BC, Canada<br>*resume AT erikniklas DOT net*
 ## Professional Summary
 
 * Over 25 years experience with Linux and Unix systems
-* Over twelve years experience managing large distributed systems
-* Passion for automating processes and building tools to maximize team productivity
+* Over 13 years experience managing large distributed systems
+* Passion for automation and building tools to maximize productivity and user experience
 * Develops and promotes relationships of trust and respect with peers, customers, and superiors
 * Excellent writing and oral communication skills; actively documents and shares knowledge
 * US and Canadian citizenship
 
 ## Technical Skills Summary
 
-| | |
-| --- | --- |
-| **Operating Systems** | Highly competent in Linux system administration (Red Hat/CentOS and Ubuntu). Intermediate knowledge of Windows operating systems |
-| **Scripting/Programming** | Thorough experience with Python, Groovy, Perl and bash shell scripting; significant experience with Golang and C/C++/C#; experience with TypeScript, Next.js, and REST API programming |
-| **Containerization** | Thorough experience with Kubernetes, Mesos/Marathon, and Docker administration |
-| **Utilities/Applications** | In-depth knowledge of industry-standard tools and technologies such as Jenkins, Ansible, Puppet, git, virtualization, etc.
-| **Cloud services** | Familiar with AWS services and infrastructure as code solutions such as Terraform and Terragrunt |
-| **Protocols** | Knowledge of common protocols such as TCP/IP, UDP, NTP, DNS, HTTP, etc. |
-| **Administrative** | Excellent troubleshooting and logic skills<br>Outstanding writing and communication skills<br>Strong work ethic, self-motivated and highly interested in tooling and automation<br>Excellent interpersonal and mentorship skills<br>Able to prioritize projects and work well alone or as part of a team<br>Experience with change control processes |
+**Operating Systems:** Highly competent in Linux system administration (Red Hat/CentOS and Ubuntu). Intermediate knowledge of Windows operating systems
+
+**Scripting/Programming:** Thorough experience with Python, Groovy, Perl and bash shell scripting; significant experience with Golang and C/C++/C#; experience with TypeScript, Next.js, and REST API programming
+
+**Containerization:** Thorough experience with Kubernetes, Mesos/Marathon, and Docker administration
+
+**Utilities/Applications:** In-depth knowledge of industry-standard tools and technologies such as Jenkins, Ansible, Puppet, git, virtualization, etc.
+
+**Cloud services:** Familiar with AWS services and infrastructure as code solutions such as Terraform and Terragrunt
+
+**Protocols:** Knowledge of common protocols such as TCP/IP, UDP, NTP, DNS, HTTP, etc.
+
+**Administrative:**
+
+- Excellent troubleshooting and logic skills
+- Outstanding writing and communication skills
+- Strong work ethic, self-motivated and highly interested in tooling and automation
+- Excellent interpersonal and mentorship skills
+- Able to prioritize projects and work well alone or as part of a team
+- Experience with change control processes
 
 ## Experience
 
@@ -43,7 +54,7 @@ Courtenay, BC, Canada<br>*resume AT erikniklas DOT net*
 * Find opportunities to build tooling and automation to empower teams across the company
 * Build relationships with teams through collaboration and support
 * Gather requirements and design solutions for customer needs
-* Join teams for project duration when needed
+* Join teams for project duration as needed
 
 **Special Accomplishments**
 
