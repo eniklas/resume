@@ -6,24 +6,24 @@ Courtenay, BC, Canada<br>*resume AT erikniklas DOT net*
 
 ## Professional Summary
 
+* Passion for automation and building tools to maximize productivity and user experience
 * Over 25 years experience with Linux and Unix systems
 * Over 13 years experience managing large distributed systems
-* Passion for automation and building tools to maximize productivity and user experience
 * Develops and promotes relationships of trust and respect with peers, customers, and superiors
-* Excellent writing and oral communication skills; actively documents and shares knowledge
+* Excellent communication skills
 * US and Canadian citizenship
 
 ## Technical Skills Summary
 
-**Operating Systems:** Highly competent in Linux system administration; intermediate knowledge of Windows operating systems
+**Programming:** Thorough experience with Python, Groovy, Perl and bash shell scripting; significant experience with Golang and C/C++/C#; experience with JavaScript, TypeScript, Next.js, and REST API programming
 
-**Scripting/Programming:** Thorough experience with Python, Groovy, Perl and bash shell scripting; significant experience with Golang and C/C++/C#; experience with JavaScript, TypeScript, Next.js, and REST API programming
+**Cloud services:** Strong experience with AWS services and infrastructure as code solutions such as Terraform, Terragrunt, and Pulumi
 
 **Containerization:** Thorough experience with Kubernetes, Mesos/Marathon, and Docker administration
 
-**Utilities/Applications:** In-depth knowledge of industry-standard tools and technologies such as Jenkins, Ansible, Puppet, git, virtualization, etc.
+**Operating Systems:** Highly competent in Linux system administration; intermediate knowledge of Windows operating systems
 
-**Cloud services:** Strong experience with AWS services and infrastructure as code solutions such as Terraform, Terragrunt, and Pulumi
+**Utilities/Applications:** In-depth knowledge of industry-standard tools and technologies such as GitHub Actions, Jenkins, Ansible, Puppet, git, virtualization, etc.
 
 **Protocols:** Knowledge of common protocols such as TCP/IP, UDP, NTP, DNS, HTTP, etc.
 
