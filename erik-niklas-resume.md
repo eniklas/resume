@@ -1,135 +1,62 @@
-# Erik Niklas
+**Erik Niklas**
+[https://www.linkedin.com/in/erik-niklas](https://www.linkedin.com/in/erik-niklas) | [erik@erikniklas.net](mailto:resume@erikniklas.net) | (250) 650-3789
+Courtenay, BC, Canada | US and Canadian citizen
+---
 
-## Infrastructure Tools Engineer
+## **PROFESSIONAL SUMMARY**
 
-Courtenay, BC, Canada<br>*resume AT erikniklas DOT net*
+Seasoned professional with 25+ years in Linux and Unix systems and 13+ years managing large-scale distributed systems. Specializes in automation and tooling to optimize engineering productivity, enhance user experience, and reduce operational costs. Proven ability to build trust, foster cross-functional collaboration, mentor teams, and deliver scalable, high-impact solutions.
 
-## Professional Summary
+## **TECHNICAL SKILLS SUMMARY**
 
-* Passion for automation and building tools to maximize productivity and user experience
-* Over 25 years experience with Linux and Unix systems
-* Over 13 years experience managing large distributed systems
-* Develops and promotes relationships of trust and respect with peers, customers, and superiors
-* Excellent communication skills
-* US and Canadian citizenship
+* **Programming:** Python, Groovy, Perl, Bash shell scripting, Golang, C/C++/C\#,  JavaScript, TypeScript, Node, Next.js, and REST API programming
+* **Cloud technologies:** AWS services, Terraform, Terragrunt, and Pulumi
+* **Containerization:** Kubernetes, Mesos/Marathon, and Docker administration
+* **Operating Systems:** Linux system administration; intermediate knowledge of Windows operating systems
+* **Utilities/Applications:** GitHub Actions, Jenkins, Ansible, Puppet, Git, virtualization
+* **Protocols:** Common industry protocols such as TCP/IP, UDP, NTP, DNS, and HTTP
 
-## Technical Skills Summary
+## **WORK EXPERIENCE**
 
-**Programming:** Thorough experience with Python, Groovy, Perl and bash shell scripting; significant experience with Golang and C/C++/C#; experience with JavaScript, TypeScript, Next.js, and REST API programming
+**Riot Games**
+Infrastructure Engineer (Cloud Engineering team) 			     Jan 2024 \- present
 
-**Cloud services:** Strong experience with AWS services and infrastructure as code solutions such as Terraform, Terragrunt, and Pulumi
+* Revamped development and **CI processes** for a Python project based on stakeholder feedback, implementing **fully automated version management**, eliminating release failures, and increasing release velocity by **10%**
+* Developed **enterprise-wide tooling** to manage Amazon VPCs, improving **network infrastructure efficiency**
+* Designed processes to identify and safely delete unused VPCs, reducing VPC count by 30%, **lowering costs by $300k annually**, and **minimizing security risks**
+* Automated the migration of hundreds of production game service deployments from **Jenkins** to **GitHub Actions** with **zero downtime**, ensuring seamless transition and improved **CI/CD efficiency**
+* Redesigned the **GitHub Actions support model** for a partner team, allowing them to **scale** from supporting one department to offering it company-wide
 
-**Containerization:** Thorough experience with Kubernetes, Mesos/Marathon, and Docker administration
+Infrastructure Engineer (Tooling and Automation team) 		  Apr 2022 \- Dec 2023
 
-**Operating Systems:** Highly competent in Linux system administration; intermediate knowledge of Windows operating systems
+* Set up CI/CD GitOps workflows for several partner teams to **fully automate** their release pipelines, standardizing releases and saving **up to 5 hours** of manual work per week
+* Built a pipeline to automate the creation of Fedora images, decreasing engineer time **from days to minutes** for a new Fedora release
+* Gathered requirements from **stakeholders**, researched UI/UX offerings, and built a web tool for nontechnical users to identify inefficient usage of cloud resources and assign tickets to the responsible team **enabling significant cost reductions**
+* **Led** the development of a generalized continuous deployment system, enabling partner teams to **self-service deploy** their infrastructure, reducing wait times from **days to zero**
+* Identified and **eliminated a bottleneck** in a token generation service via profiling, increasing responsiveness by **20x**
 
-**Utilities/Applications:** In-depth knowledge of industry-standard tools and technologies such as GitHub Actions, Jenkins, Ansible, Puppet, git, virtualization, etc.
+Infrastructure Engineer (Container Orchestration team) 		  Apr 2018 \- Apr 2022
 
-**Protocols:** Knowledge of common protocols such as TCP/IP, UDP, NTP, DNS, HTTP, etc.
+* Designed and implemented a **fully automated** continuous deployment pipeline, reducing engineer time per release from **days to zero**, and increasing production deployment frequency by **over sixfold**
+* Collaborated on the design and development of the next generation **container orchestration** solution (Kubernetes) **adopted company-wide**, improving scalability, resiliency, and efficiency across the organization
+* Wrote tooling to validate code changes before merging, **decreasing CI failures** by over **50%**, increasing release velocity by over **100%**
+* Provided container orchestration support for the entire organization, **improving product experience** and **reducing downtime** for engineers and services
 
-**Administrative:**
+**Demonware**								 Dec 2015 \- Nov 2017
+System Engineer
 
-- Excellent troubleshooting and logic skills
-- Outstanding writing and communication skills
-- Strong work ethic, self-motivated and highly interested in tooling and automation
-- Excellent interpersonal and mentorship skills
-- Able to prioritize projects and work well alone or as part of a team
-- Experience with change control processes
+* Designed an **AWS account structure** that empowered teams to independently manage their budgets and **reduce costs**
+* Automated AWS resource tagging and cleanup using **AWS Lambda** reducing unused resources, resulting in **significant cost savings**
+* Provided **AWS infrastructure support** (IAM, VPC, Route53, Lambda, S3) across multiple accounts using **Terraform**
+* Owned **DNS management** for the entire organization, ensuring optimal **performance** and **reliability** across all company domains
 
-## Experience
+Service Reliability Engineer						 Feb 2012 \- Dec 2015
 
-*Infrastructure Engineer (cloud engineering team), Riot Games, January 2024 - present*
+* Ensured **\>99.9% network uptime** for backend systems supporting hundreds of game titles, including top games in the world, serving millions of concurrent users and processing hundreds of thousands of requests per second
+* Overhauled internal **DNS infrastructure** with **zero downtime**, improving **system reliability** for all internal services
+* Wrote Python scripts to **automate server provisioning and deallocation** with a single command, saving SREs and NOC **days of work** for game releases
+* Mentored junior system administrators and ran workshops to increase their expertise in bash scripting
 
-**Job Responsibilities**
+## **EDUCATION**
 
-* Create and improve tooling to abstract and manage Amazon VPCs for the entire company
-* Assist customers in migrating from Jenkins to GitHub Actions
-* Design and implement a generalized infrastructure CI/CD system suitable across the organization
-* Advise leadership on strategic goals and team health
-
-**Special Accomplishments**
-
-* Revamped development and CI processes for an existing Python project, including fully automated version management, greatly improving development efficiency for the team
-* Created process for identifying and safely deleting unused VPCs
-* Proposed a sustainable support model for GitHub Actions for a partner team
-
-*Infrastructure Engineer (tooling and automation team), Riot Games, April 2022 - December 2023*
-
-**Job Responsibilities**
-
-* Find opportunities to build tooling and automation to empower teams across the company
-* Build relationships with teams through collaboration and support
-* Gather requirements and design solutions for customer needs
-* Join teams for project duration as needed
-
-**Special Accomplishments**
-
-* Generalized the continuous deployment system developed on my previous team, for use by other customers
-* Set up CI/CD GitOps workflows for several teams
-* Built a pipeline to automate the creation of Fedora images, decreasing engineer time from days to minutes for a new Fedora release
-* Built a web tool for nontechnical users to identify inefficient usage of cloud resources and assign tickets to the owning team
-
-*Infrastructure Engineer (container orchestration team), Riot Games, April 2018 - April 2022*
-
-**Job Responsibilities**
-
-* Support container orchestration for the entire organization
-* Write tooling to automate manual processes and autoremediate failures
-* Respond to customer requests for support with deployment issues and feature requests
-* Periodic on-call support
-
-**Special Accomplishments**
-
-* Designed and implemented a continuous deployment pipeline that decreased engineer time for a release from days to zero (fully automated), increasing production deployment frequency more than sixfold
-* Had a major role in the design and development of the next generation container orchestration solution (Kubernetes) used by the entire company
-* Wrote tooling to validate code changes before merge that drastically decreased CI failures
-
-*System Engineer, Demonware, December 2015 - November 2017*
-
-**Job Responsibilities**
-
-* Support AWS infrastructure across multiple accounts (IAM, VPC, Route53, Lambda, S3) using Terraform
-* Educate other teams on AWS best practices and provide support
-* Primary owner of DNS for entire organization
-* Primary owner of network storage (NetApp)
-* Support of OpenNebula for VM provisioning
-
-**Special Accomplishments**
-
-* Led a major project to replace legacy NetApp storage with a more cost effective and performant solution
-* Designed an AWS account structure to empower teams and provide per-team billing data
-* Used AWS Lambda to automatically tag resources in a legacy account for billing purposes and delete unused resources, resulting in significant cost savings
-
-*Service Reliability Engineer, Demonware, February 2012 - December 2015*
-
-**Job Responsibilities**
-
-* Ensure network service availability for hundreds of game titles, including some of the most popular games in the world, serving millions of concurrent users and hundreds of thousands of requests per second
-* Provide senior system administration support for thousands of CentOS Linux servers across several data centers around the world
-* Maintenance and development of Puppet modules for configuration management
-* Development and maintenance of Python scripts and automation tools
-* Migration of services to AWS
-* Primary owner of DNS infrastructure and internal package repositories
-* Maintenance and support of ESX and KVM virtual machines and hypervisors
-* Mentor junior system administrators
-
-**Special Accomplishments**
-
-* Had a significant role in expanding the business into China
-* Had a major role in the deployment of services across hundreds of machines for several of the world's largest title releases
-* Overhauled internal DNS infrastructure with no downtime
-* Wrote Python scripts to provision and free up servers with a single command, saving a massive amount of time for SREs and NOC
-* Ran a bash scripting workshop for junior administrators
-
-### Previous experience
-
-*Linux System Administrator, Oracle Corporation Canada, January 2005 - February 2012*
-
-*Unix System Administrator, Nationwide Insurance, March 1999 - December 2004*
-
-## Education
-
-Bachelor of Science in Computer Science and Engineering, The Ohio State University,
-August 2000
-
-References provided upon request.
+* Bachelor of Science in Computer Science and Engineering, The Ohio State University, August 2000
