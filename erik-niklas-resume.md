@@ -1,6 +1,7 @@
 # Erik Niklas
 
 [https://www.linkedin.com/in/erik-niklas](https://www.linkedin.com/in/erik-niklas) | [erik@erikniklas.net](mailto:erik@erikniklas.net) | (250) 650-3789
+
 Courtenay, BC, Canada | US and Canadian citizen
 ---
 
